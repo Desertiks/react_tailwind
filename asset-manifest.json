@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_tailwind/static/css/main.4761507d.css",
-    "main.js": "/react_tailwind/static/js/main.96d9db9a.js",
+    "main.css": "/react_tailwind/static/css/main.b01f8c15.css",
+    "main.js": "/react_tailwind/static/js/main.3b84b0de.js",
     "static/js/787.3ffe5129.chunk.js": "/react_tailwind/static/js/787.3ffe5129.chunk.js",
     "static/media/tolpich.svg": "/react_tailwind/static/media/tolpich.1204e903d75f6594390159c08b87bcfc.svg",
     "static/media/fishes.png": "/react_tailwind/static/media/fishes.84217a20dfddfcdc3e0a.png",
@@ -28,12 +28,12 @@
     "static/media/Group 437.svg": "/react_tailwind/static/media/Group 437.77f03b2a3bf9854b25845ce95a33d3f8.svg",
     "static/media/cross.svg": "/react_tailwind/static/media/cross.4a0c17cf11160a0cb9b0c76d4d3f9dd9.svg",
     "static/media/arrow.svg": "/react_tailwind/static/media/arrow.ffd603fe27f5104da6fc2d8f9ccd1680.svg",
-    "main.4761507d.css.map": "/react_tailwind/static/css/main.4761507d.css.map",
-    "main.96d9db9a.js.map": "/react_tailwind/static/js/main.96d9db9a.js.map",
+    "main.b01f8c15.css.map": "/react_tailwind/static/css/main.b01f8c15.css.map",
+    "main.3b84b0de.js.map": "/react_tailwind/static/js/main.3b84b0de.js.map",
     "787.3ffe5129.chunk.js.map": "/react_tailwind/static/js/787.3ffe5129.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4761507d.css",
-    "static/js/main.96d9db9a.js"
+    "static/css/main.b01f8c15.css",
+    "static/js/main.3b84b0de.js"
   ]
 }
