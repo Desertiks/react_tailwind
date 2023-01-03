@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react_tailwind/static/css/main.4761507d.css",
+    "main.js": "/react_tailwind/static/js/main.96d9db9a.js",
+    "static/js/787.3ffe5129.chunk.js": "/react_tailwind/static/js/787.3ffe5129.chunk.js",
+    "static/media/tolpich.svg": "/react_tailwind/static/media/tolpich.1204e903d75f6594390159c08b87bcfc.svg",
+    "static/media/fishes.png": "/react_tailwind/static/media/fishes.84217a20dfddfcdc3e0a.png",
+    "static/media/delphines.png": "/react_tailwind/static/media/delphines.286944e30dd0bbeda4b8.png",
+    "static/media/water.png": "/react_tailwind/static/media/water.98724d1f36c68ca052e2.png",
+    "static/media/africa.svg": "/react_tailwind/static/media/africa.76a53b409bb365ef5419a95a066e1ad7.svg",
+    "static/media/gym.svg": "/react_tailwind/static/media/gym.088fb4d2086786739109a49def6c8401.svg",
+    "static/media/presentation.svg": "/react_tailwind/static/media/presentation.40e31819f114ec97dce206b6ba387df6.svg",
+    "static/media/KyivTypeSans.woff2": "/react_tailwind/static/media/KyivTypeSans.481a1f7c4e02b592cc37.woff2",
+    "static/media/Group 1439.svg": "/react_tailwind/static/media/Group 1439.82dba00c94c9e1bc9941c63e696890b4.svg",
+    "static/media/darkmode.svg": "/react_tailwind/static/media/darkmode.16c98cb18a0c50494c2e1a5030689ee0.svg",
+    "static/media/POJECT.svg": "/react_tailwind/static/media/POJECT.3931f6928b3ad8c772b946fd42990892.svg",
+    "static/media/slick.svg": "/react_tailwind/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react_tailwind/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/ABOUT THE.svg": "/react_tailwind/static/media/ABOUT THE.d715105b46a5d0959096d0761ab7c471.svg",
+    "static/media/slick.ttf": "/react_tailwind/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/instagram.svg": "/react_tailwind/static/media/instagram.7d94e0d976cf68c5cba3cff5b7031f15.svg",
+    "static/media/slick.woff": "/react_tailwind/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/telegram.svg": "/react_tailwind/static/media/telegram.7e7f823acfa891d0319c355adffc4a46.svg",
+    "static/media/arrowRight.svg": "/react_tailwind/static/media/arrowRight.30be6ab669da96744c6c11b7d58062a9.svg",
+    "static/media/arrowleft.svg": "/react_tailwind/static/media/arrowleft.497582b4d8f48d032e1d78de0594b043.svg",
+    "index.html": "/react_tailwind/index.html",
+    "static/media/facebook.svg": "/react_tailwind/static/media/facebook.ed84630918ceefbd7c2631827cdc20df.svg",
+    "static/media/Group 437.svg": "/react_tailwind/static/media/Group 437.77f03b2a3bf9854b25845ce95a33d3f8.svg",
+    "static/media/cross.svg": "/react_tailwind/static/media/cross.4a0c17cf11160a0cb9b0c76d4d3f9dd9.svg",
+    "static/media/arrow.svg": "/react_tailwind/static/media/arrow.ffd603fe27f5104da6fc2d8f9ccd1680.svg",
+    "main.4761507d.css.map": "/react_tailwind/static/css/main.4761507d.css.map",
+    "main.96d9db9a.js.map": "/react_tailwind/static/js/main.96d9db9a.js.map",
+    "787.3ffe5129.chunk.js.map": "/react_tailwind/static/js/787.3ffe5129.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4761507d.css",
+    "static/js/main.96d9db9a.js"
+  ]
+}
